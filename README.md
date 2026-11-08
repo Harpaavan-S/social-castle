@@ -12,4 +12,4 @@ Overall, my model presents a creative way to implement the introduction of hydro
 
 ## Built With
 
-The model was built in Blender, and the site was coded in HTML and CSS. I used model viewer to import my model into the site.
+The model was built in Blender, and the site was coded in HTML and CSS.
