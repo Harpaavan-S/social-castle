@@ -9,3 +9,7 @@ In this project, I have made a 3D model of a castle in a lake on a floating isla
 3. Because the model represents the first introduction of hydroelectric lighting, its position on a floating island in the sky showcases how nearly impossible it was to access it when it was first invented, with only the ultra-rich being able to afford it. 
 
 Overall, my model presents a creative way to implement the introduction of hydroelectric lighting during the Industrial Revolution and showcases all the surrounding factors. 
+
+## Built With
+
+The model was built in Blender, and the site was coded in HTML and CSS. I used model viewer to import my model into the site.
